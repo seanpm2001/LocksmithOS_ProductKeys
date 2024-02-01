@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🔐️🇴.🇸🔑️ The LocksmithOS Product Keys source repository, allowing the storage of product keys within the system (LocksmithOS will never require a product key to use, this repository only lets you store copies of existing keys)
